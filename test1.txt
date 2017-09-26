@@ -1,0 +1,13 @@
+
+updated by karan
+
+ Volume in drive C is OS
+ Volume Serial Number is C4E9-77B1
+
+ Directory of C:\Users\PRABAKARAN JAYARAMAN\Desktop\NashNashProject
+
+09/26/2017  11:29    <DIR>          .
+09/26/2017  11:29    <DIR>          ..
+09/26/2017  11:29                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  25,097,121,792 bytes free
